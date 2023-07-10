@@ -1,0 +1,10 @@
+appmap_dir: tmp/appmap
+language: python
+name: dwyloapp_API
+packages:
+  - path: core
+  - path: admin_user
+  - path: patient
+  - path: accounts
+  - path: project
+  - path: doctor
